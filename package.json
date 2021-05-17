@@ -6,10 +6,15 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravi9989/code-20210517-raviteja.git"
+  },
   "author": "Ravi Teja",
   "license": "MIT",
   "dependencies": {
     "d3-array": "^2.12.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "mocha": "^8.4.0"
   }
 }
