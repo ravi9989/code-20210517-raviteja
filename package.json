@@ -13,6 +13,7 @@
   "author": "Ravi Teja",
   "license": "MIT",
   "dependencies": {
+    "assert": "^2.0.0",
     "d3-array": "^2.12.1",
     "fs": "0.0.1-security",
     "mocha": "^8.4.0"

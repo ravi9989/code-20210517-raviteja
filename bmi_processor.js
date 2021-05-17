@@ -96,7 +96,7 @@ async function caluclateBmi(hight, weight){
 
         console.error(e)
 
-        return -1
+        return 0
 
     }
 
