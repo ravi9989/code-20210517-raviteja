@@ -1,0 +1,15 @@
+{
+  "name": "bmi_processor",
+  "version": "1.0.0",
+  "description": "caluclates bmi anad category details for given json file with hights and weights and give the ouput in specified file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ravi Teja",
+  "license": "MIT",
+  "dependencies": {
+    "d3-array": "^2.12.1",
+    "fs": "0.0.1-security"
+  }
+}
