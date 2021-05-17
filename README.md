@@ -1,5 +1,8 @@
 # BMI - Processor
 
+![npm](https://badges.aleen42.com/src/node.svg) ![npm](https://badges.aleen42.com/src/npm.svg)
+
+
 [![https://nodei.co/npm/bmi_processor.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/bmi_processor.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bmi_processor)
 
 BMI processor is a package that processes the json data with heights and weights and categorize the health risk and bmi category
