@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/ravi9989/code-20210517-raviteja.git"
   },
+  "keywords": [
+    "bmi"
+  ],
   "author": "Ravi Teja",
   "license": "MIT",
   "dependencies": {
