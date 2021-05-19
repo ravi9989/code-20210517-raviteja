@@ -19,7 +19,7 @@ NodeJS
 
 ## Installation
 
-This package is built using default python libraries
+This package is built using default node libraries
 ```
 npm install bmi_processor
 ```
